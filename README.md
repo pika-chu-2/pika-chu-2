@@ -11,7 +11,7 @@
 
 <!-- Bio Section -->
 <p align="center">
-  <em>I'm a Software Engineer with 4+ years of experience in systems programming. I specialize in C, C++, Python, and Rust, and I love building clean, maintainable, and performant code. Currently working on distributed systems and always exploring new technologies.</em>
+  <em>I'm a Systems Software Engineer with 4+ years of experience in low-level and performance-critical programming. I specialize in C, C++, and Rust, with a growing interest in distributed systems, cloud infrastructure, and network performance. I’m passionate about writing clean, efficient code whether it's optimizing network stacks, building low-latency backends, or exploring compiler internals.</em>
 </p>
 
 <div align="center">
@@ -31,68 +31,85 @@ madhu@github
 <!---->
 
 <!-- Contact Links -->
-<div align="center">
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" align="center" alt="LinkedIn" width="30" height="30"/>](https://www.linkedin.com/in/madhu-developer)
+&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" align="center"  alt="Gmail" width="32" height="32"/>](mailto:your.email@gmail.com)
+&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="https://cdn.brandfetch.io/idjByukyyY/w/817/h/817/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" align="center"  alt="Turing" width="30" height="30"/>](https://matching.turing.com/developer-resume-preview/e62322531794f3bc5c14f9c5b960de5e3485a9a7e9191e)
+<!--div align="center">
   <a href="https://www.linkedin.com/in/madhu-developer" target="_blank" rel="noopener noreferrer">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="" width="30" height="30">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="" width="30" height="30"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:your.email@gmail.com" rel="noopener noreferrer">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="32" height="32">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="32" height="32"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://matching.turing.com/developer-resume-preview/e62322531794f3bc5c14f9c5b960de5e3485a9a7e9191e" rel="noopener noreferrer">
-      <img src="https://cdn.brandfetch.io/idjByukyyY/w/817/h/817/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" alt="Turing" width="30" height="30">
+      <img src="https://cdn.brandfetch.io/idjByukyyY/w/817/h/817/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" alt="Turing" width="30" height="30"/>
   </a>
-</div>
+</div-->
 <!---->
 
 <!--## 📈 GitHub Stats-->
 
-## 🛠️ Tools I Use
-#### 🗄️ Tools for Cloud & Data Management
+### 🔧 Core Skills
+#### 👨🏽‍💻 Systems
 <p>
-  <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-0366D6?style=for-the-badge&logo=github&logoColor=white"></a>
+  <img alt="Windows" src="https://img.shields.io/badge/Windows-0366D6?style=for-the-badge&logo=windows&logoColor=white">
+  &nbsp;&nbsp;
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-0366D6?&style=for-the-badge&logo=linux&logoColor=white">
 </p>
 
-#### 👨🏽‍💻 Operating Systems
+#### 👨‍💻 Languages
 <p>
-  <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0366D6?style=for-the-badge&logo=windows&logoColor=white"></a>
+  <img alt="C" src="https://img.shields.io/badge/C-0366D6?style=for-the-badge&logo=c&logoColor=white">
   &nbsp;&nbsp;
-  <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-0366D6?&style=for-the-badge&logo=linux&logoColor=white"></a>
+  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-0366D6?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  &nbsp;&nbsp;
+  <img alt="C#" src="https://img.shields.io/badge/C%23-0366D6?style=for-the-badge&logo=c%23&logoColor=white">
+  &nbsp;&nbsp;
+  <img alt="Python" src="https://img.shields.io/badge/Python-0366D6?style=for-the-badge&logo=python&logoColor=white">
+  &nbsp;&nbsp;
+  <img alt="Rust" src="https://img.shields.io/badge/Rust-0366D6?style=for-the-badge&logo=rust&logoColor=white">
 </p>
 
-#### 👨‍💻 Programming Toolbox
+#### 💻 Tools
 <p>
-  <a href="#"><img alt="C" src="https://img.shields.io/badge/C-0366D6?style=for-the-badge&logo=c&logoColor=white"></a>
+  <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-0366D6?style=for-the-badge&logo=android-studio&logoColor=white">
   &nbsp;&nbsp;
-  <a href="#"><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-0366D6?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
+  <img alt="Git" src="https://img.shields.io/badge/Git%20-0366D6?style=for-the-badge&logo=git&logoColor=white">
   &nbsp;&nbsp;
-  <a href="#"><img alt="C#" src="https://img.shields.io/badge/C%23-0366D6?style=for-the-badge&logo=c%23&logoColor=white"></a>
+  <img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-0366D6?style=for-the-badge&logo=google%20sheets&logoColor=white">
   &nbsp;&nbsp;
-  <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-0366D6?style=for-the-badge&logo=python&logoColor=white"></a>
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/VS%20Code-0366D6?style=for-the-badge&logo=visualstudiocode&logoColor=white">
   &nbsp;&nbsp;
-  <a href="#"><img alt="Rust" src="https://img.shields.io/badge/Rust-0366D6?style=for-the-badge&logo=rust&logoColor=white"></a>
-</p>
-
-#### 💻 Development Tools
-<p>
-  <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-0366D6?style=for-the-badge&logo=android-studio&logoColor=white"></a>
+  <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-0366D6?style=for-the-badge&logo=visual-studio&logoColor=white">
   &nbsp;&nbsp;
-  <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-0366D6?style=for-the-badge&logo=git&logoColor=white"></a>
+  <img alt="RustRover" src="https://img.shields.io/badge/RustRover-0366D6?style=for-the-badge&logo=jetbrains&logoColor=white">
   &nbsp;&nbsp;
-  <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-0366D6?style=for-the-badge&logo=google%20sheets&logoColor=white"></a>
-  &nbsp;&nbsp;
-  <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/VS%20Code-0366D6?style=for-the-badge&logo=visualstudiocode&logoColor=white"></a>
-  &nbsp;&nbsp;
-  <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-0366D6?style=for-the-badge&logo=visual-studio&logoColor=white"></a>
-  &nbsp;&nbsp;
-  <a href="#"><img alt="RustRover" src="https://img.shields.io/badge/RustRover-0366D6?style=for-the-badge&logo=jetbrains&logoColor=white"></a>
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-0366D6?style=for-the-badge&logo=github&logoColor=white">
 </p>
 <!---->
-<!--## 🏆 Achievements / Certifications -->
-<!--##🚧 Currently Working On -->
 
+<!--Current Working section-->
+### 🚧 Currently Learning
+- Async Rust (Tokio)
+- eBPF & kernel-level observability
+<!---->
+
+<!--Project section-->
+### 📌 Featured Projects
+<!-- - ⚙️ [Your Rust Network Optimizer](link) — Wrote a performant Rust-based network benchmarking tool-->
+- 🌐 [RemoteControl Tool in C++](#) — Built client-server communication over sockets with async event loop
+<!-- - 📊 [System Profiler in Rust](link) — CLI tool for monitoring CPU/mem usage with zero-copy I/O-->
+
+<!---->
+
+<!---->
+<!--## 🏆 Achievements / Certifications -->
+<!---->
 
 <p align="center">
-  <em>Disclaimer: Projects on this profile are for educational purposes only. I am not responsible for any bad uses from anyone ❌✋</em>
+  <em><b>Disclaimer: Projects on this profile are for educational purposes only. I am not responsible for any bad uses from anyone ❌✋</b></em>
 </p>
