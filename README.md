@@ -101,7 +101,7 @@ madhu@github
 <!--Project section-->
 ### 📌 Featured Projects
 <!-- - ⚙️ [Your Rust Network Optimizer](link) — Wrote a performant Rust-based network benchmarking tool-->
-- 🌐 [RemoteControl Tool in C++](#) — Built client-server communication over sockets with async event loop
+- 🌐 [RemoteControl Tool in C++](https://github.com/honey-9-9/Remote-Access-Trojan) — Built client-server communication over sockets with async event loop
 <!-- - 📊 [System Profiler in Rust](link) — CLI tool for monitoring CPU/mem usage with zero-copy I/O-->
 
 <!---->
